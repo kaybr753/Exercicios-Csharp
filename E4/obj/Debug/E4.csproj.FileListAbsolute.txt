@@ -1,0 +1,7 @@
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\bin\Debug\E4.exe.config
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\bin\Debug\E4.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\bin\Debug\E4.pdb
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\obj\Debug\E4.csproj.AssemblyReference.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\obj\Debug\E4.csproj.CoreCompileInputs.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\obj\Debug\E4.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E4\obj\Debug\E4.pdb
