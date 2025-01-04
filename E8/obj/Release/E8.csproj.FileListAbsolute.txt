@@ -1,0 +1,7 @@
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\bin\Release\E9.exe.config
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\bin\Release\E9.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\bin\Release\E9.pdb
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\obj\Release\E8.csproj.AssemblyReference.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\obj\Release\E8.csproj.CoreCompileInputs.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\obj\Release\E9.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E8\obj\Release\E9.pdb

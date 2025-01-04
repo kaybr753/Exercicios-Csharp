@@ -1,0 +1,7 @@
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\bin\Release\E6.exe.config
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\bin\Release\E6.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\bin\Release\E6.pdb
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\obj\Release\E6.csproj.AssemblyReference.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\obj\Release\E6.csproj.CoreCompileInputs.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\obj\Release\E6.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E6\obj\Release\E6.pdb

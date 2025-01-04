@@ -1,0 +1,7 @@
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\bin\Release\E7.exe.config
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\bin\Release\E7.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\bin\Release\E7.pdb
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\obj\Release\E7.csproj.AssemblyReference.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\obj\Release\E7.csproj.CoreCompileInputs.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\obj\Release\E7.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E7\obj\Release\E7.pdb

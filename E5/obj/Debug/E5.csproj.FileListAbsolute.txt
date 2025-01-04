@@ -1,0 +1,7 @@
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\bin\Debug\E5.exe.config
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\bin\Debug\E5.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\bin\Debug\E5.pdb
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\obj\Debug\E5.csproj.AssemblyReference.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\obj\Debug\E5.csproj.CoreCompileInputs.cache
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\obj\Debug\E5.exe
+C:\Users\kayke\Desktop\Projetos C#\Exercicios\E5\obj\Debug\E5.pdb
